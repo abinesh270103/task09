@@ -100,6 +100,18 @@
    .contact-info span> a:hover{
 	   color:#00bcd4;
    }
+   .menu-button{
+	   position:absolute;
+	   top:25;
+	   font-size:30px;
+	   right:30px;
+	   width:40px;
+	   height:auto;
+	   padding:0;
+	   border:0;
+	   box-shadow:none;
+	   background:transition;
+   }
    .button{
 	    display:inline-block;
 		text-decoration:none;
@@ -632,6 +644,9 @@ padding:0 50px 50px 50px;
   }
    .portfolio-img{  
 	 position:relative;   
+   }
+   .portfolio-img img{
+	   width:100%;
    }
    .portfolio-abi{
 	   opacity:0;
