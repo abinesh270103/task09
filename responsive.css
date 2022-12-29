@@ -256,4 +256,16 @@ margin-top:30px;
 .base h2 {
 	margin-top:30px;
 }
+.small p {
+    font-size:16px;
+}
+.service-items p {
+    font-size: 16px;
+}
+.banner-content h1 {
+	font-size:35px;
+}
+.banner-content p{
+	font-size:18px;
+}
 }
